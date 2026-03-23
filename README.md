@@ -110,18 +110,6 @@ The app will open automatically in your browser at `http://localhost:8501`.
 
 ---
 
-## 📦 requirements.txt
-```
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-streamlit
-```
-
----
-
 ## 📊 Exploratory Data Analysis & Feature Engineering
 
 The following features were engineered from raw text before model training:
