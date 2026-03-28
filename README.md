@@ -42,14 +42,16 @@ This project builds a **multi-class text classification system** that automatica
 
 ## 🗂️ Project Structure
 ```
-├── language.csv                   # Dataset with text samples and language labels
-├── Language_Recognition_NLP.ipynb # Full notebook: EDA, training, evaluation, model export
-├── app.py                         # Streamlit web application
-├── svm_model.pkl                  # Trained SVM model (saved via pickle)
-├── tfidf_vectorizer.pkl           # Fitted TF-IDF vectorizer (saved via pickle)
-├── requirements.txt               # Python dependencies
-└── README.md                      # Project documentation
-```
+├── README.md                              # You are here!!
+|
+├── Language Recognition using NLP/        # Main project folder
+│   ├── language.csv                       # Dataset with text samples and language labels
+│   ├── Language_Recognition_NLP.ipynb     # Full notebook: EDA, training, evaluation, model export
+│   ├── app.py                             # Streamlit web application
+│   ├── svm_model.pkl                      # Trained SVM model (saved via pickle)
+│   ├── tfidf_vectorizer.pkl               # Fitted TF-IDF vectorizer (saved via pickle)
+│   └── requirements.txt                   # Python dependencies
+
 
 ---
 
