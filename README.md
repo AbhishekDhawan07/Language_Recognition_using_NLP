@@ -1,4 +1,4 @@
-# 🌐 Lingua_Detect_AI
+# 🌐 Lingua Detect AI(Language Detection using NLP)
 
 A Natural Language Processing (NLP) project that detects the language of any input text using classical machine learning models. Four models are trained, evaluated, and compared — with the best-performing model (SVM) deployed as an interactive web app using **Streamlit**.
 
