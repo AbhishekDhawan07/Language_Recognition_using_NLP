@@ -1,6 +1,6 @@
 # 🌐 Lingua Detect AI(Language Detection using NLP)
 
-A Natural Language Processing (NLP) project that detects the language of any input text using classical machine learning models. Four models are trained, evaluated, and compared — with the best-performing model (SVM) deployed as an interactive web app using **Streamlit**.
+A Natural Language Processing (NLP) project that detects the language of any input text using classical machine learning models. Four models are trained, evaluated, and compared - with the best-performing model (SVM) deployed as an interactive web app using **Streamlit**.
 
 ---
 
@@ -12,18 +12,18 @@ This project builds a **multi-class text classification system** that automatica
 
 ## ✨ Features
 
-- 🔤 **Multi-language detection** — identifies languages from a diverse dataset (`language.csv`)
-- 🧹 **Text preprocessing** — lowercasing and punctuation removal for cleaner features
-- 📊 **Rich feature engineering** — character count, word count, vowel/consonant ratio, punctuation density, and more
+- 🔤 **Multi-language detection** - identifies languages from a diverse dataset (`language.csv`)
+- 🧹 **Text preprocessing** - lowercasing and punctuation removal for cleaner features
+- 📊 **Rich feature engineering** - character count, word count, vowel/consonant ratio, punctuation density, and more
 - 🤖 **Four ML models trained and compared:**
   - Multinomial Naive Bayes (Bag-of-Words)
   - Logistic Regression (TF-IDF character n-grams)
-  - Support Vector Machine — LinearSVC (TF-IDF character n-grams)
+  - Support Vector Machine - LinearSVC (TF-IDF character n-grams)
   - Random Forest (TF-IDF word-level)
-- 📈 **Full evaluation** — Accuracy, Precision, Recall, F1 Score, Classification Report, and Confusion Matrix for every model
-- 📉 **Visual comparisons** — bar charts, pie charts, and grouped metric charts across all models
+- 📈 **Full evaluation** - Accuracy, Precision, Recall, F1 Score, Classification Report, and Confusion Matrix for every model
+- 📉 **Visual comparisons** - bar charts, pie charts, and grouped metric charts across all models
 - 🏆 **Best model (SVM) saved** as `.pkl` files and deployed via Streamlit
-- 🌐 **Interactive Streamlit app** — type any sentence and get an instant language prediction
+- 🌐 **Interactive Streamlit app** - type any sentence and get an instant language prediction
 
 ---
 
