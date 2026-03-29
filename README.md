@@ -108,7 +108,7 @@ The app will open automatically in your browser at `http://localhost:8501`.
 3. Click **Detect Language**
 4. The predicted language is displayed instantly
 
-> The app uses the saved **SVM model** and **TF-IDF vectorizer** (`.pkl` files) — make sure both files are in the same directory as `app.py`.
+> The app uses the saved **SVM model** and **TF-IDF vectorizer** (`.pkl` files) - make sure both files are in the same directory as `app.py`.
 
 ---
 
